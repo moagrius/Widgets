@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="ProgressEllipsis">
+    <attr name="quantity" format="integer" />
+    <attr name="color" format="color" />
+    <attr name="duration" format="integer" />
+    <attr name="threshold" format="float" />
+  </declare-styleable>
+</resources>
